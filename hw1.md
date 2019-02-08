@@ -1,6 +1,3 @@
-# coursera
-дз с курсеры (надеюсь доделаю)))0))
-
 Утилита tree.
 
 Выводит дерево каталогов и файлов (если указана опция -f).
@@ -68,4 +65,3 @@ go run main.go .
 * https://golang.org/pkg/sort/
 * https://golang.org/pkg/io/
 * https://golang.org/pkg/io/ioutil/
-
